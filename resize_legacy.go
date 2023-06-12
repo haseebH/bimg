@@ -1,5 +1,3 @@
-// +build !go1.7
-
 package bimg
 
 // Resize is used to transform a given image as byte buffer
